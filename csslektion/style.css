@@ -1,0 +1,38 @@
+body {
+
+
+	font-family: 'Crimson Text', serif;
+}
+
+a {
+	background-color: yellow;
+	padding: 30px;
+	transition: all 1s;
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: green;
+	border-radius: 10;
+	padding: 50px;
+	color: white;
+}
+
+.box {
+	width: 25%;
+	height: 50%;
+	box-shadow: 6px 4px 12px black;
+	background-color: #555;
+}
+
+buttun{
+	background-color: #fff;
+	padding: 10px;
+	font-size: 30px;
+
+}
+button:hover{
+	background-color: pink;
+	color: #555;
+
+}

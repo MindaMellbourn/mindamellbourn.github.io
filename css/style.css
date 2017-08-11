@@ -1,0 +1,133 @@
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	font-family: times;
+
+}
+h3 {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Crimson Text', serif;
+}
+h4 {
+	color: white;
+	text-align: center;
+	font-size: 23px;
+	font-family: 'Crimson Text', serif;
+}
+
+html, body {
+	background-color: #f8f454;
+}
+
+.top5 {
+	width: 550px;
+	height: 330px
+}
+
+.läsernu {
+	height: 350px;
+}
+
+.läsernu2 {
+	height: 350px;
+}
+
+.butiker {
+  width: 600px;
+	height: 400px;
+}
+
+.start {
+	width: 1366px;
+	height: 450px;
+}
+
+a {
+	color: white;
+}
+
+.navbar-inverse {
+	background-color: #f8f454;
+}
+
+.navbar-inverse, navbar-brand{
+	color: white;
+	font-size: 23px;
+	font-family:'Crimson Text', serif;
+
+}
+
+ .centrering {
+	display:flex;
+	width: 100%;
+	justify-content: center;
+}
+
+.parallax {
+    min-height: 665px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bild1{
+    background-image: url("../bilder/bokbakgrund.jpg");
+}
+
+#bild2{
+    background-image: url("../bilder/bokbakgrund4.jpg");
+}
+
+
+.scroll-box{
+  height:100px;
+  width: auto;
+  background-color: #f8f454;
+  display: block;
+}
+
+#parall{
+  color: white;
+  font-size: 27px;
+  font-family: 'Crimson Text', serif;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    color: #white;
+}
+
+.caption span.border {
+    background-color: #f8f454;
+    color: #ffffff;
+    padding: 18px;
+    font-size: 50px;
+    font-family: 'Crimson Text', serif;
+    letter-spacing: 10px;
+}
+
+.whitebox {
+    position: absolute;
+    top: 1050px;
+    background: #f8f454; 
+    margin-left:50%;
+    transform: translateX(-50%);
+    padding: 30px;
+}
+
+.boxtext {
+	color: white;
+	font-size: 23px;
+	font-family:'Crimson Text', serif;
+}
